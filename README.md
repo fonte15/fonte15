@@ -7,7 +7,7 @@
 
 <h3 align="left">📫 My Socials:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/franciscomfonte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/franciscomfonte/" height="30" width="40" /></a>
+<a href="https://instagram.com/franciscomfonte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/franciscomfonte/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🔭 Some Languages and Tools:</h3>
@@ -26,8 +26,29 @@
       <tr>
       <td style="text-align: center;"><a href="https://github.com/fonte15/projPROG">Prog</a></td>
       <td style="text-align: center;">C++</td>
-      <td style="text-align: center;">Conversion of images from the SVG vectorial format to the PNG raster format</td>   
+      <td style="text-align: center;">Conversion of images from the SVG vectorial format to the PNG raster format.</td>   
       </tr>
+      <tr>
+      <td style="text-align: center;"><a href="https://github.com/fonte15/progLDTS">LDTS</a></td>
+      <td style="text-align: center;">Java</td>
+      <td style="text-align: center;">Recreation of the minigame Bad IceCream.</td>   
+      </tr>
+      <tr>
+      <td style="text-align: center;"><a href="https://github.com/fonte15/2ndProjectDA">DA</a></td>
+      <td style="text-align: center;">C++</td>
+      <td style="text-align: center;">Delivery Truck Pallet Packing Optimization Problem resolved with various algorithms.</td>   
+      </tr>
+      <tr>
+      <td style="text-align: center;"><a href="https://github.com/fonte15/progESOF">ESOF</a></td>
+      <td style="text-align: center;">Flutter/Dart</td>
+      <td style="text-align: center;">Mobile App named "EcoQuest" which helps people develop sustainable habits.</td>   
+      </tr>
+      <tr>
+      <td style="text-align: center;"><a href="https://github.com/fonte15/progLCOM">LCOM</a></td>
+      <td style="text-align: center;">C</td>
+      <td style="text-align: center;">Recreation of the generic Snake Game implementing keyboard, timer and video.</td>   
+      </tr>
+
       
   </table>
 </div>
